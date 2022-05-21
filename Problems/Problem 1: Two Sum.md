@@ -10,5 +10,5 @@ You can return the answer in any order.
 
 <h3> Solution </h3>
 
-<a href = "https://github.com/anikpuranik/LeetCode/blob/main/Java/Problem%201:%20Two%20Sum.md">Java</a>
-<a href = "https://github.com/anikpuranik/LeetCode/edit/main/Python/Problem%201:%20Two%20Sum.md">Python</a>
+<a href = "https://github.com/anikpuranik/LeetCode/blob/main/Java/Problem%201:%20Two%20Sum.md" target="_blank">Java</a>
+<a href = "https://github.com/anikpuranik/LeetCode/edit/main/Python/Problem%201:%20Two%20Sum.md" target="_blank">Python</a>
