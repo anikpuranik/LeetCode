@@ -1,12 +1,3 @@
-Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
-
-You may assume that each input would have exactly one solution, and you may not use the same element twice.
-
-You can return the answer in any order.
-
-![image](https://user-images.githubusercontent.com/22523309/169662177-e038466d-d381-4c2b-853f-753b53f5249a.png)
-
-<hr><br>
 <h3> Solution 1: </h3> 
 Runtime: 4638 ms<br>
 Memory Usage: 15 MB
