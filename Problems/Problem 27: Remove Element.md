@@ -16,5 +16,6 @@ If all assertions pass, then your solution will be accepted.
 
 ![image](https://user-images.githubusercontent.com/22523309/170542842-09b857c9-36e1-4c46-afe1-52b1797e856e.png)
 
+<hr>
 <h3> Solution </h3>
-<a href="">Python</a>
+<a href="https://github.com/anikpuranik/LeetCode/blob/main/Python/Problem%2027:%20Remove%20Element.md">Python</a>
