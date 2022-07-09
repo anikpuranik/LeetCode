@@ -1,5 +1,5 @@
 <h3> Solution 1: </h3> 
-Runtime: 4638 ms<br>
+Runtime: 4640 ms<br>
 Memory Usage: 15 MB
 
 ![image](https://user-images.githubusercontent.com/22523309/169662292-923d0461-2702-4d8b-8c5d-1807973dd3b6.png)
